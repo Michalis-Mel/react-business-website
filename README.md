@@ -1,3 +1,15 @@
+# The Capture is a demo website for a fictional company
+
+### Technologies used for Capture:
+
+-JavaScript
+-React
+-React Router
+
+For the animations:
+-Styled Components
+-Framer Motion
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
