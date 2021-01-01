@@ -1,4 +1,4 @@
-# The Capture is a demo website for a fictional company
+# Capture is a demo website for a fictional company
 
 ### Technologies used for Capture:
 
