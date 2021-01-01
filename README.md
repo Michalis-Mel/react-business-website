@@ -2,13 +2,13 @@
 
 ### Technologies used for Capture:
 
--JavaScript
--React
--React Router
+- JavaScript
+- React
+- React Router
 
 For the animations:
--Styled Components
--Framer Motion
+- Styled Components
+- Framer Motion
 
 # Getting Started with Create React App
 
