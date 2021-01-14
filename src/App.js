@@ -22,7 +22,7 @@ function App() {
       <Nav />
       <AnimatePresence exitBeforeEnter>
         <Switch location={location} key={location.pathname}>
-          <Route exact path="/">
+          <Route exact path="/react-business-website/">
             <AboutUs />
           </Route>
           <Route exact path="/work">
